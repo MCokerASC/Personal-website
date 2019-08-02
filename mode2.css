@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+     background-color: aquamarine;
+     
+ }
+ body{
+     background-image: url(https://backgroundcheckall.com/wp-content/uploads/2017/12/professional-background-images-for-websites-design-3.jpg)
+ 
+ }
+ h2{
+     font-size: 400%;
+ }
+ .info{
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+     
+ }
